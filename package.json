@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Make a command line tic-tac-toe game from scratch for two players. Expected features =============== * Minimal UI that redraws the board and makes clear whose turn it is, each turn. * Players can submit moves (assume, admittedly unrealistically, that both players are sitting at the same keyboard). * Win detection - detect and display who won",
+  "main": "game.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicola24/tic-tac-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicola24/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/nicola24/tic-tac-toe#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  }
+}
