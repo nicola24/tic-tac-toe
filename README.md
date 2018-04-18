@@ -1,4 +1,4 @@
-### A basic Tic Tac Toe game built using HTML/JavaScript/CSS
+### A basic Tic Tac Toe game built using HTML/ JavaScript/ CSS
 
 [DEMO PAGE HERE](http://htmlpreview.github.io/?https://github.com/nicola24/tic-tac-toe/blob/master/index.html)
 
